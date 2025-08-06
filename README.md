@@ -9,37 +9,23 @@
 ### 🚀 Tecnologias que uso:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="40" />
+  <img src="https://cdn.simpleicons.org/java/007396" width="40" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
+  <img src="https://cdn.simpleicons.org/django/092E20" width="40" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" />
 </div>
-
-
----
-
-### 📊 Stats:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanevit&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanevit&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanevit&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
