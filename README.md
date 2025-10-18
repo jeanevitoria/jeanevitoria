@@ -4,6 +4,8 @@
 
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/jeane-vitória-félix-da-silva-396677140") · [Email](mailto:jeanevitoria994@gmail.com)
 
+🌐 **Portfolio:** https://portfolio-jeanevitoria.vercel.app/
+
 ## 👩‍💻 **About Me**
 
 I have hands-on experience building functional applications from academic and personal projects. My skills include creating intuitive user interfaces with React and Tailwind CSS, and applying TypeScript for type-safe code on both the front and back end.
