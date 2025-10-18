@@ -1,4 +1,4 @@
-## 👩🏿‍💻 Jeane Vitória
+## 👩🏻‍💻 Jeane Vitória
 
 📘 **Academic Background:**  Computer Science student at UFRPE (6th semester).
 
