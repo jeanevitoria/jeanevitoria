@@ -33,7 +33,3 @@ Currently, I'm focused on expanding my expertise in back-end development. I'm ac
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </div>
-
-## 🔥 My Stats
-
-[![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanevitoria)](https://github.com/anuraghazra/github-readme-stats)
